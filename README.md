@@ -11,7 +11,7 @@
 
 ## Sobre mí
 
-Estudiante de la **Universidad del Pacífico** con formación en ingeniería de datos y machine learning. Me interesa trabajar con **datos públicos peruanos**, en especial de educación y medio ambiente, para medir brechas y apoyar decisiones con evidencia.
+Estudiante de **Ingeniería de la Información** en la **Universidad del Pacífico**, con formación en ingeniería de datos y machine learning. Me interesa trabajar con **datos públicos peruanos**, en especial de educación y medio ambiente, para medir brechas y apoyar decisiones con evidencia.
 
 - Actualmente desarrollo **Rompebrechas**, un análisis distrital de infraestructura y cobertura educativa.
 - Busco prácticas en **análisis de datos y data science** en Lima.
